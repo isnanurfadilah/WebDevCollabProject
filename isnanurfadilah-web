@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Project</title>
+</head>
+<body>
+    <h1>Abdurrahman Harits</h1>
+    <p>POLINEMA</p>
+    <p>22</p>
+
+
+    <br>
+    <h1>Try Novaldi Ramadhan Muadi</h1>
+    <ul>
+        <li>Universitas Singaperbangsa Karawang</li>
+    </ul>
+
+    <br>
+    <h1>Isna Nur Fadilah</h1>
+    <ul>
+        <li>Universitas Pendidikan Indonesia</li>
+    </ul>
+</body>
+</html>
